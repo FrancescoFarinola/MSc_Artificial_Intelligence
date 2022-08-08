@@ -8,7 +8,7 @@ In this repository you can find all my project works, presentations and course n
 
  - **Combinatorial Decision Making and Optimization I** - *Neural Network from scratch* : Implemented the logic of neural networks using only plain numpy and no external libraries with all optimizers, activation functions, early stopping and for multiple tasks (binary, multi-class classification and regression)
 
-    [x] Tested all functionalities with dataset of the previous project of AI in Industry
+   - [x] Tested all functionalities with dataset of the previous project of AI in Industry
 
  - **Combinatorial Decision Making and Optimization II** - *Solve the Very Large Scale Integration (VLSI)* optimization problem using CP, SAT and SMT approaches using MiniZinc and PyZ3
 
