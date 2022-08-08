@@ -49,3 +49,9 @@ Also, in the data we are using, it is made explicit that degradation was intenti
 The proof is found in the step 2, where we see that the rate of damage increases exponentially based on the two parameters *a<sub>k</sub>* and *b<sub>k</sub>* where *a<sub>k</sub>* is the amount of wear of a particular module k at a certain time t and *b<sub>k</sub>* is the rate of time at which exponential degradation happens (a kind of speed of degradation regularizer).
 
 In conclusion, the health index almost reflects the generic behaviour of an exponential function. Thus, this is why in our predictions we have an initial 'plateau' and suddently it exponentially decreases.
+
+
+Part 2 - Estimation of Remaning Useful Life of CINECA HPC systems:
+
+During the experiments we discovered that we could not estimate the RUL since the data we got from CINECA had never encountered faults so we cannot estimate at all without relevant data.
+
