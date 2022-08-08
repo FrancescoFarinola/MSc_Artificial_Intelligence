@@ -4,7 +4,7 @@ In this repository you can find all my project works, presentations and course n
 
 ## Project works
 
-You can find all details about the project, reports and how to execute code inside each folder.
+You can find all details about the projects, reports and how to execute code inside each folder.
 
  - **AI in Industry** - *Prediction of Remaining Useful Life (RUL)* on CINECA HPC systems using classic Deep Learning and Probabilistic models + *Anomaly Detection* on CMAPSS Dataset (Colab Notebooks)
 
