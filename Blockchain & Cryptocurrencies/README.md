@@ -49,9 +49,9 @@ Client:
 
  ## Activity
 
- ![Activity](https://github.com/FrancescoFarinola/SupplyChainReact/blob/main/images/activity.png)
+ ![Activity](https://github.com/FrancescoFarinola/MSc_Artificial_Intelligence/blob/main/Blockchain%20%26%20Cryptocurrencies/images/activity.png)
 
  ## UI
 
-![UI](https://github.com/FrancescoFarinola/SupplyChainReact/blob/main/images/ui.png)
+![UI](https://github.com/FrancescoFarinola/MSc_Artificial_Intelligence/blob/main/Blockchain%20%26%20Cryptocurrencies/images/ui.png)
 
