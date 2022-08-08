@@ -4,6 +4,8 @@ In this repository you can find all my project works, presentations and course n
 
 ## Project works
 
+You can find all details about the project, reports and how to execute code inside each folder.
+
  - **AI in Industry** - *Prediction of Remaining Useful Life (RUL)* on CINECA HPC systems using classic Deep Learning and Probabilistic models + *Anomaly Detection* on CMAPSS Dataset (Colab Notebooks)
 
  - **Combinatorial Decision Making and Optimization I** - *Neural Network from scratch* : Implemented the logic of neural networks using only plain numpy and no external libraries with all optimizers, activation functions, early stopping and for multiple tasks (binary, multi-class classification and regression)
