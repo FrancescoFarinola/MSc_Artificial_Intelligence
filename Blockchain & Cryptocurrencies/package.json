@@ -1,0 +1,8 @@
+{
+    "name": "supply-chain-react",
+    "version": "0.1.0",
+    "dependencies": {
+        "solc": "^0.8.13",
+        "truffle": "^5.5.13"
+    }
+}
